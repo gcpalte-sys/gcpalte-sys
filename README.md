@@ -22,10 +22,10 @@ I'm an undergraduate Physics student at The Ohio State University pursuing a min
 
 ### ⚡ When I'm not in the lab or coding
 
--🎯 Tossing bags on the weekends.
+- 🎯 Tossing bags on the weekends.
 - 🏎️ Keeping up with NASCAR.
 - 🗺️ Planning my next international trip.
-- O-H!
+- 🌰 O-H!
 
 ### 📫 Let's Connect
 
