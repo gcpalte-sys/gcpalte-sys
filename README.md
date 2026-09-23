@@ -29,5 +29,5 @@ I'm an undergraduate Physics student at The Ohio State University pursuing a min
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [www.linkedin.com/in/grant-palte-325060337](https://www.linkedin.com/in/grant-palte-325060337)
+- **LinkedIn:** [[www.linkedin.com/in/grant-palte-325060337](https://www.linkedin.com/in/grant-palte/)]
 - **Email:** [gcpalte@gmail.com](mailto:gcpalte@gmail.com)
