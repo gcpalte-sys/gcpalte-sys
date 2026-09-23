@@ -19,7 +19,7 @@ I'm an undergraduate Physics student at The Ohio State University pursuing a min
 - **1st Place:** AWS x State Street SPDR ETFs challenge at the YQuantum 2026 Hackathon.
 - **MIT iQuHACK 2026:** Competed with Team buQeyes from the Ohio State Quantum Computing Club.
 - **Global Research:** Completed a team sustainability project while studying abroad in Cyprus, researching geographic markers and local ecosystems.
-- - **Summer Research Scholarship (2024):** Funded by the OSU Department of Physics for full-time research in Dr. Jay Gupta's lab after my freshman year.
+- **Summer Research Scholarship (2024):** Funded by the OSU Department of Physics for full-time research in Dr. Jay Gupta's lab after my freshman year.
 
 ### ⚡ When I'm not in the lab or coding
 
